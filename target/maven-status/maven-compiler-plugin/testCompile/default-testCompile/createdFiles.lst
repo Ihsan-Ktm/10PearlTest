@@ -1,0 +1,6 @@
+pages\DemoqaPage.class
+utilities\Helper.class
+utilities\TestData.class
+pages\DemoqaFormPage.class
+tests\TestBase.class
+tests\DemoqaTests.class
